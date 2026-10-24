@@ -1,0 +1,11 @@
+# Archivos generados al abrir o ejecutar una copia del cuaderno.
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

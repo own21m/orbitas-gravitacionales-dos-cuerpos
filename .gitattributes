@@ -1,0 +1,5 @@
+# El notebook se conserva byte por byte; Git no transforma sus finales de línea.
+*.ipynb -text
+*.png binary
+*.md text eol=lf
+*.py text eol=lf
